@@ -1,12 +1,3 @@
-Link zu den NPZs:
-https://bwsyncandshare.kit.edu/s/4NCMdSQfBYDoy6m
+This repository serves as test data storage for the Dynamic 3D Gaussians Paper. 
 
-## Installation und Nutzung
-
-### 1. Herunterladen der ZIP-Datei
-
-Verwenden Sie den folgenden `wget`-Befehl, um die ZIP-Datei herunterzuladen:
-
-```bash
-wget https://bwsyncandshare.kit.edu/s/4NCMdSQfBYDoy6m
-unzip npz
+This repository must be copied into the data folder of the cloned Dynamic3DGaussians repository. The application then only needs to be started as required by the paper's instructions.
